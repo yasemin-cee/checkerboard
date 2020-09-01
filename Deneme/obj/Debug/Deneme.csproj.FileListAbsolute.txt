@@ -1,0 +1,10 @@
+C:\Users\Yasemin\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Yasemin\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Yasemin\source\repos\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.DenemeFormu.resources
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Yasemin\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
